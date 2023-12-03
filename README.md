@@ -5,5 +5,5 @@
 - 🚀 Always eager to learn and undertake new projects, I'm also enthusiastic about contributing to open-source initiatives.
 - 🧮 Mathematics: Specifically interested in number theory, mathematical modeling, and numerical optimization.
 - 📈 Numerical Optimization: Currently working on numerical optimization problems using MatLab and C.
-
+📧 E-posta:iremcelik007@hotmail.com
 
